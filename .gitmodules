@@ -1,0 +1,4 @@
+[submodule "Odoo_market_apps"]
+	path = Odoo_market_apps
+	url = git@github.com:axcelere/Odoo_market_apps.git
+	branch = 17.0
